@@ -1,0 +1,18 @@
+@import url("https://use.typekit.net/oek0tql.css");
+* {
+    font-family: "poppins", sans-serif;
+    line-height: 1.8; /* radhöjd */
+    cursor: pointer; /* sätt pil till pointer hand */
+    box-sizing: border-box;
+  }
+body {
+    background-color: #f3f3f3;
+    color: #202020;
+    font-family: "poppins", sans-serif;
+    margin: 0em;
+  }
+
+  .mainText{
+    text-align: center;
+    margin-bottom: 4em;
+}
