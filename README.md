@@ -1,11 +1,11 @@
 # Moment 2 🌻
 Andra uppgiften i kursen DT173G, **Webbutveckling III**. 
-## Uppgift 🌱
 
 ## Installation 🌟
-> ``` git clone https://github.com/linemaria/moment2/ ```
+> ``` git clone ``` https://github.com/linemaria/moment2/
 
 ## Varför automatisering? 💫
+Syftet med automatiseringsprocessen är att underlätta programmeringen för utvecklare. Detta genom en snabbare process för överföring av filer från lokal utveckling till publik samt sortering och komprimering av filerna.
 
 ## Paket och verktyg som använts ⚡️
 
@@ -23,4 +23,12 @@ Andra uppgiften i kursen DT173G, **Webbutveckling III**.
 - **Gulp sourcemaps** - Gör det möjligt att spåra de komprimerade och ihopslagna JS & CSS filerna.
 
 ## Hur använder jag detta projekt? 🌿
-``` git clone ``` https://github.com/linemaria/moment2/ och sedan ``` npm install ``` därefter kör du ``` gulp ```
+**Steg 1:** Se till att NodeJs & NPM är installerat
+
+**Steg 2:** Kör ``` git clone ``` https://github.com/linemaria/moment2/ .
+
+**Steg 3:** Kör ``` npm install ``` i terminalen.
+
+**Steg 4:** Kör nu ``` gulp ``` för att skapa mappen "pub" för projektet och resterande relaterade filer.
+
+**Klart ✌️**
