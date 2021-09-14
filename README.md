@@ -2,10 +2,10 @@
 Andra uppgiften i kursen DT173G, Webbutveckling III. 
 ## Uppgift 🌱
 
-## Installation 🌿
+## Installation 🌟
 
 ## Varför automatisering? 💫
 
 ## Paket och verktyg som använts ⚡️
 
-## Hur använder jag detta projekt? 🌙
+## Hur använder jag detta projekt? 🌿
