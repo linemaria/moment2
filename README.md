@@ -3,6 +3,7 @@ Andra uppgiften i kursen DT173G, Webbutveckling III.
 ## Uppgift 🌱
 
 ## Installation 🌟
+git clone(https://github.com/linemaria/moment2/)
 
 ## Varför automatisering? 💫
 
