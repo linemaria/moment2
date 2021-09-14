@@ -23,3 +23,4 @@ Andra uppgiften i kursen DT173G, **Webbutveckling III**.
 - **Gulp sourcemaps** - Gör det möjligt att spåra de komprimerade och ihopslagna JS & CSS filerna.
 
 ## Hur använder jag detta projekt? 🌿
+``` git clone ``` https://github.com/linemaria/moment2/ och sedan ``` npm install ``` därefter kör du ``` gulp ```
