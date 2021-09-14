@@ -9,12 +9,12 @@ git clone [https://github.com/linemaria/moment2/](https://github.com/linemaria/m
 
 ## Paket och verktyg som använts ⚡️
 
-###Verktyg
+### Verktyg
 - NodeJs - För att köra JavaScript lokalt på datorn.
 - Gulp - För att automatisera processen.
 - NPM - För att hitta och köra olika användbara paket för uppgiften.
 
-###Paket
+### Paket
 - Gulp Concat - Slår ihop filer till en. Används för CSS & JS filerna.
 - Gulp Terser - Komprimerar JS-koden.
 - Gulp Cssnano - Komprimerar CSS-koden.
